@@ -5,5 +5,5 @@
 ---
 **References**:
 * [git-going](https://github.com/cyber-mint/git-going)
-
+* [company-of-heroes](https://www.companyofheroes.com/)
 ---
